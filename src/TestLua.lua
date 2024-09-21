@@ -20,3 +20,4 @@ test()
 c=name..age..f
 print(c)
 print(type(name))
+AA=1
